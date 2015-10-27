@@ -1,0 +1,74 @@
+html {
+  dispaly: table;
+  margin: auto;
+}
+body {
+  background-color: #fff;
+  text-align: center;
+  overflow-y: scroll;
+}
+a {
+  text-decoration: none;
+}
+.everything {
+  margin: 0 auto;
+  width: 800px;
+}
+.cellsBlock {
+  width: 90%;
+  display: none;
+  align-content: center;
+}
+#top{
+  overflow: hidden;
+}
+.logo {
+  width: 200px;
+  height: 100px;
+}
+.top-right {
+  height: 120px;
+  width: 270px;
+}
+.menu-bar {
+  background-color: #3498db;
+  overflow: hidden;
+  width: inherit;
+  border-radius: 3px;
+}
+.menu-h1 {
+  color: #fff;
+  text-align: center;
+  font-size: 120%;
+}
+.menu-text {
+  text-align: left;
+  color: #000;
+}
+.menu-text2 {
+  text-align: center;
+  color: #fff;
+}
+.menu-text-h2 {
+  text-align: center;
+  color: #3498db;
+  font-size: 120%;
+}
+.menu-td {
+  background-color: #3498db;
+  border-radius: 3px;
+}
+.menu-td2 {
+  background-color: #ffbb44;
+  border-radius: 3px;
+}
+.menu-toggler {
+  cursor:pointer;
+}
+.footer {
+  clear:both;
+}
+.promo {
+  font-size: 300%;
+  text-decoration: bold;
+}
